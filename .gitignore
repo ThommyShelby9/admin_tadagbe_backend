@@ -22,3 +22,4 @@ stubs/import.collection.stub
 stubs/import.model.stub
 composer.lock
 storage
+access.log
