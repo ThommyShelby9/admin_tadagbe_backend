@@ -142,24 +142,24 @@ $(function () {
     var table = $('#admission-table').DataTable({
         processing: true,
         serverSide: true,
-        ajax: {
-            url: "{{ route('admissions.datatables') }}",
-            data: function (d) {
-                // Paramètres de base
-                d.school_id = $('#filter-school').val() || '{{session("school_id")}}';
+ajax: {
+    url: "{{ route('admissions.index') }}", // Utiliser la route existante
+    data: function (d) {
+        // Paramètres de base
+        d.school_id = $('#filter-school').val() || '{{session("school_id")}}';
 
-                // Ajout des paramètres de filtrage
-                d.last_name = $('#filter-lastname').val();
-                d.first_name = $('#filter-firstname').val();
-                d.email = $('#filter-email').val();
-                d.phone = $('#filter-phone').val();
-                d.status = $('#filter-status').val();
-                d.paiement_mode = $('#filter-payment').val();
-                d.nationality = $('#filter-nationality').val();
-                d.date_from = $('#date-from').val();
-                d.date_to = $('#date-to').val();
-            }
-        },
+        // Ajout des paramètres de filtrage
+        d.last_name = $('#filter-lastname').val();
+        d.first_name = $('#filter-firstname').val();
+        d.email = $('#filter-email').val();
+        d.phone = $('#filter-phone').val();
+        d.status = $('#filter-status').val();
+        d.paiement_mode = $('#filter-payment').val();
+        d.nationality = $('#filter-nationality').val();
+        d.date_from = $('#date-from').val();
+        d.date_to = $('#date-to').val();
+    }
+},
         columns: [
             {data: 'id', name: 'id'},
             {data: 'status', name: 'status'},
