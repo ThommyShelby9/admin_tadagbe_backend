@@ -3,8 +3,6 @@
 namespace App\Exports;
 
 use App\Models\Admission;
-use App\Models\School;
-use App\Models\StudyPath;
 use Maatwebsite\Excel\Concerns\FromCollection;
 use Maatwebsite\Excel\Concerns\WithHeadings;
 use Maatwebsite\Excel\Concerns\WithMapping;
@@ -40,8 +38,8 @@ class AdmissionsExport implements FromCollection, WithHeadings, WithMapping, Wit
             'Email',
             'Nationalité',
             'Filière',
-            'École',
-            'Parcours d\'étude',
+            'ID École',
+            'ID Parcours d\'étude',
             'Mode de paiement',
             'Statut',
             'Date de création',
@@ -53,20 +51,6 @@ class AdmissionsExport implements FromCollection, WithHeadings, WithMapping, Wit
      */
     public function map($admission): array
     {
-        // Récupérer le nom de l'école si disponible
-        $school_name = 'N/A';
-        if ($admission->school_id) {
-            $school = School::find($admission->school_id);
-            $school_name = $school ? $school->name : 'N/A';
-        }
-
-        // Récupérer le parcours d'étude si disponible
-        $study_path_name = 'N/A';
-        if ($admission->study_path_id) {
-            $study_path = StudyPath::find($admission->study_path_id);
-            $study_path_name = $study_path ? $study_path->name : 'N/A';
-        }
-
         return [
             $admission->id,
             $admission->last_name,
@@ -76,8 +60,8 @@ class AdmissionsExport implements FromCollection, WithHeadings, WithMapping, Wit
             $admission->email,
             $admission->nationality,
             $admission->study_branch_code,
-            $school_name,
-            $study_path_name,
+            $admission->school_id, // Juste l'ID au lieu du nom
+            $admission->study_path_id, // Juste l'ID au lieu du nom
             $admission->paiement_mode,
             $admission->getStatusString(),
             $admission->created_at->format('d/m/Y'),
