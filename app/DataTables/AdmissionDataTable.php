@@ -63,24 +63,7 @@ class AdmissionDataTable extends DataTable
      * @param \App\Models\Admission $model
      * @return \Illuminate\Database\Eloquent\Builder
      */
-    public function query(Admission $model)
-    {
-        $query = $model->newQuery();
-        $school_id = $this->request()->get('school_id');
-        $status = $this->request()->get('status');
-
-      // dd($school_id,$status);
-        if ($school_id) {
-            $query->where('school_id', $school_id);
-        }
-        if ($status) {
-            $query->where('status', $status);
-        }
-
-        return $query;
-    }
-
-    /**
+/**
  * Get query source of dataTable.
  *
  * @param \App\Models\Admission $model
@@ -138,6 +121,8 @@ public function query(Admission $model)
 
     return $query;
 }
+
+
 
     /**
      * Optional method if you want to use html builder.
