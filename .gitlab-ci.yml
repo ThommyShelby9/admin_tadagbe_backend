@@ -1,0 +1,27 @@
+stages:
+  - deploy
+
+deploy-prod:
+  stage: deploy
+  before_script:
+      - chmod 400 $SSH_KEY
+  script:
+      #- cat $SSH_KEY
+      - ssh -o StrictHostKeyChecking=no -i $SSH_KEY root@admin.inter-nat.com "
+        cd /var/www/html/innter_nat_admin/&&
+        git fetch --all &&
+        git checkout -f transi &&
+        git pull &&
+        php artisan config:cache &&
+        php artisan view:cache &&
+        php artisan route:cache &&
+        php artisan schedule:run &&
+        php artisan migrate &&
+        composer install --ignore-platform-reqs &&
+        npm run  dev &&
+        chmod -R 777 ." 
+
+
+
+      
+    

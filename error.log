@@ -1,0 +1,338 @@
+[Wed Apr 10 10:33:39.356052 2024] [authz_core:error] [pid 287017] [client 139.162.210.205:38252] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Apr 10 10:33:39.680346 2024] [authz_core:error] [pid 287260] [client 104.237.130.38:33774] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Apr 10 18:57:07.825923 2024] [core:error] [pid 1043136] [client 193.118.52.30:33730] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Wed Apr 10 18:57:08.418056 2024] [core:error] [pid 1035729] [client 193.118.52.30:34352] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Wed Apr 10 18:57:09.006011 2024] [core:error] [pid 792754] [client 193.118.52.30:34940] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Wed Apr 10 22:32:38.598210 2024] [authz_core:error] [pid 1439680] [client 159.65.18.197:38414] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Apr 11 01:52:46.032454 2024] [core:error] [pid 1578035] [client 101.126.88.14:39376] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Apr 11 01:52:50.372179 2024] [core:error] [pid 1578034] [client 101.126.88.14:39384] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Apr 11 08:23:42.648122 2024] [ssl:error] [pid 1583511] [client 44.220.185.81:46454] AH02042: rejecting client initiated renegotiation
+[Fri Apr 12 13:29:09.969783 2024] [ssl:error] [pid 605940] [client 54.90.235.22:37570] AH02042: rejecting client initiated renegotiation
+[Fri Apr 12 14:37:43.156457 2024] [ssl:error] [pid 258515] [client 54.226.253.109:52564] AH02042: rejecting client initiated renegotiation
+[Sat Apr 13 02:35:20.117245 2024] [ssl:error] [pid 1817717] [client 52.202.202.236:47724] AH02042: rejecting client initiated renegotiation
+[Sat Apr 13 05:02:30.857081 2024] [ssl:error] [pid 2201497] [client 44.201.241.130:52778] AH02042: rejecting client initiated renegotiation
+[Mon May 12 01:54:07.661654 2025] [ssl:error] [pid 878579] [client 202.112.47.144:45026] AH02042: rejecting client initiated renegotiation
+[Mon May 12 01:54:34.106121 2025] [ssl:error] [pid 878580] [client 202.112.47.144:52126] AH02042: rejecting client initiated renegotiation
+[Mon May 12 02:29:38.112363 2025] [ssl:error] [pid 879360] [client 18.97.5.53:38026] AH02042: rejecting client initiated renegotiation
+[Tue May 13 03:21:42.013829 2025] [core:error] [pid 890178] [client 219.132.37.52:42614] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue May 13 03:21:42.865266 2025] [core:error] [pid 890415] [client 219.132.37.52:45646] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed May 14 10:18:30.075805 2025] [authz_core:error] [pid 906788] [client 154.83.103.144:22480] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 14 10:18:34.032140 2025] [authz_core:error] [pid 906784] [client 154.83.103.144:22534] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 14 10:18:52.182084 2025] [authz_core:error] [pid 906783] [client 154.83.103.144:11282] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Wed May 14 10:19:04.969845 2025] [authz_core:error] [pid 904460] [client 154.83.103.144:15410] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Wed May 14 10:33:55.943276 2025] [authz_core:error] [pid 906870] [client 154.83.103.144:52424] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 14 10:33:56.915265 2025] [authz_core:error] [pid 906787] [client 154.83.103.144:52444] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 14 11:56:01.197568 2025] [authz_core:error] [pid 907338] [client 139.59.136.184:38434] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 14 19:41:54.051731 2025] [core:error] [pid 910872] [client 115.190.108.184:49874] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed May 14 19:41:56.735674 2025] [core:error] [pid 911305] [client 115.190.108.184:40680] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu May 15 21:06:54.247845 2025] [authz_core:error] [pid 924500] [client 213.232.87.228:40743] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sat May 17 17:43:19.710587 2025] [core:error] [pid 946177] [client 116.52.165.35:41168] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat May 17 18:07:42.882845 2025] [ssl:error] [pid 945829] [client 3.8.87.118:34946] AH02042: rejecting client initiated renegotiation
+[Sat May 17 21:06:23.356025 2025] [ssl:error] [pid 948838] [client 15.222.39.34:33352] AH02042: rejecting client initiated renegotiation
+[Sat May 17 21:18:54.271999 2025] [ssl:error] [pid 946297] [client 54.85.9.177:49462] AH02042: rejecting client initiated renegotiation
+[Sun May 18 08:52:38.946993 2025] [authz_core:error] [pid 953743] [client 162.244.210.30:52192] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sun May 18 15:31:45.111675 2025] [core:error] [pid 958126] [client 120.245.84.71:35128] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun May 18 15:31:46.933281 2025] [core:error] [pid 958289] [client 120.245.84.71:38754] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun May 18 20:47:22.578687 2025] [authz_core:error] [pid 962635] [client 109.202.99.46:56041] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon May 19 00:05:18.713257 2025] [core:error] [pid 965341] [client 172.234.231.188:55250] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon May 19 00:05:20.547164 2025] [core:error] [pid 965340] [client 172.234.231.188:55272] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon May 19 01:00:49.392689 2025] [authz_core:error] [pid 965343] [client 162.244.210.30:63219] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon May 19 01:54:24.047468 2025] [ssl:error] [pid 965356] [client 202.112.47.144:50158] AH02042: rejecting client initiated renegotiation
+[Mon May 19 01:54:56.553137 2025] [ssl:error] [pid 965340] [client 202.112.47.144:60316] AH02042: rejecting client initiated renegotiation
+[Mon May 19 04:59:42.736440 2025] [ssl:error] [pid 965341] [client 54.176.37.226:41476] AH02042: rejecting client initiated renegotiation
+[Mon May 19 12:29:48.201299 2025] [ssl:error] [pid 969748] [client 3.76.48.126:47648] AH02042: rejecting client initiated renegotiation
+[Tue May 20 08:26:53.526656 2025] [core:error] [pid 980208] [client 45.122.223.15:53598] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue May 20 08:26:54.674205 2025] [core:error] [pid 980213] [client 45.122.223.15:53604] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue May 20 14:17:59.510215 2025] [ssl:error] [pid 982086] [client 18.230.148.227:44654] AH02042: rejecting client initiated renegotiation
+[Tue May 20 16:23:40.760114 2025] [ssl:error] [pid 982549] [client 44.220.188.105:51216] AH02042: rejecting client initiated renegotiation
+[Tue May 20 23:24:25.703306 2025] [ssl:error] [pid 985223] [client 3.28.74.198:52620] AH02042: rejecting client initiated renegotiation
+[Wed May 21 00:26:47.676778 2025] [ssl:error] [pid 986430] [client 13.231.112.30:42200] AH02042: rejecting client initiated renegotiation
+[Wed May 21 02:28:39.036515 2025] [ssl:error] [pid 986425] [client 13.212.113.154:57570] AH02042: rejecting client initiated renegotiation
+[Wed May 21 05:50:01.180947 2025] [ssl:error] [pid 986877] [client 129.94.175.226:56174] AH02042: rejecting client initiated renegotiation
+[Thu May 22 00:44:13.652013 2025] [ssl:error] [pid 997382] [client 13.244.95.101:34614] AH02042: rejecting client initiated renegotiation
+[Thu May 22 05:50:14.277364 2025] [authz_core:error] [pid 999045] [client 178.128.207.138:33212] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu May 22 09:44:16.256010 2025] [core:error] [pid 1000658] [client 160.20.104.81:34402] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu May 22 09:44:17.006832 2025] [core:error] [pid 1000665] [client 160.20.104.81:34408] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri May 23 20:55:52.628108 2025] [authz_core:error] [pid 1019744] [client 213.232.87.234:48850] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sat May 24 07:51:52.394764 2025] [core:error] [pid 1021851] [client 39.105.42.225:43082] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat May 24 07:51:53.067558 2025] [core:error] [pid 1023831] [client 39.105.42.225:44416] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun May 25 19:43:35.026946 2025] [core:error] [pid 1037611] [client 112.95.227.2:33190] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon May 26 01:54:23.224622 2025] [ssl:error] [pid 1041336] [client 202.112.47.144:39102] AH02042: rejecting client initiated renegotiation
+[Mon May 26 01:54:48.926142 2025] [ssl:error] [pid 1041335] [client 202.112.47.144:35192] AH02042: rejecting client initiated renegotiation
+[Mon May 26 02:31:25.375000 2025] [core:error] [pid 1041333] [client 103.154.159.220:57842] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon May 26 02:31:28.016769 2025] [core:error] [pid 1041074] [client 103.154.159.220:57854] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon May 26 15:03:58.042218 2025] [authz_core:error] [pid 1046916] [client 170.39.217.204:62028] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Wed May 28 01:43:42.598465 2025] [authz_core:error] [pid 1060580] [client 104.156.155.31:50332] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed May 28 14:02:29.422644 2025] [ssl:error] [pid 1066919] [client 44.220.185.182:49098] AH02042: rejecting client initiated renegotiation
+[Fri May 30 20:59:33.331341 2025] [core:error] [pid 1089297] [client 113.56.161.14:55490] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri May 30 20:59:35.651038 2025] [core:error] [pid 1087547] [client 113.56.161.14:58974] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Jun 01 10:40:20.648642 2025] [ssl:error] [pid 1106020] [client 62.204.66.12:33838] AH02042: rejecting client initiated renegotiation
+[Mon Jun 02 01:53:18.465919 2025] [ssl:error] [pid 1111182] [client 202.112.47.144:59392] AH02042: rejecting client initiated renegotiation
+[Mon Jun 02 01:54:06.632532 2025] [ssl:error] [pid 1111888] [client 202.112.47.144:60224] AH02042: rejecting client initiated renegotiation
+[Mon Jun 02 02:34:04.940929 2025] [core:error] [pid 1112126] [client 111.250.112.98:38422] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Jun 02 02:34:08.643240 2025] [core:error] [pid 1112123] [client 111.250.112.98:49230] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Jun 02 04:23:39.691764 2025] [authz_core:error] [pid 1112123] [client 139.144.52.241:56886] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Tue Jun 03 22:41:02.854737 2025] [core:error] [pid 1130443] [client 101.91.116.193:49942] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Jun 03 22:41:20.383661 2025] [core:error] [pid 1130438] [client 101.91.116.193:47734] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Jun 03 23:08:31.826981 2025] [core:error] [pid 1130358] [client 165.232.135.187:37868] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Jun 03 23:08:31.837354 2025] [core:error] [pid 1130387] [client 165.232.135.187:37884] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Jun 04 19:44:13.166995 2025] [ssl:error] [pid 1142847] [client 44.220.188.27:47416] AH02042: rejecting client initiated renegotiation
+[Thu Jun 05 06:43:32.010275 2025] [authz_core:error] [pid 1147747] [client 138.68.82.23:46828] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Jun 05 12:31:00.890363 2025] [authz_core:error] [pid 1149810] [client 207.154.197.113:48818] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Jun 05 12:31:02.620154 2025] [authz_core:error] [pid 1149819] [client 138.68.82.23:35010] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sat Jun 07 16:18:45.934837 2025] [core:error] [pid 1169841] [client 118.145.211.128:43374] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Jun 07 16:18:51.040544 2025] [core:error] [pid 1169979] [client 118.145.211.128:44430] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Jun 07 19:14:20.567047 2025] [authz_core:error] [pid 1171706] [client 217.142.187.173:53540] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Mon Jun 09 01:58:36.125910 2025] [ssl:error] [pid 1183406] [client 202.112.47.144:50490] AH02042: rejecting client initiated renegotiation
+[Mon Jun 09 01:58:59.552062 2025] [ssl:error] [pid 1183902] [client 202.112.47.144:40786] AH02042: rejecting client initiated renegotiation
+[Tue Jun 10 15:24:42.884140 2025] [ssl:error] [pid 1198342] [client 107.174.246.34:40842] AH02042: rejecting client initiated renegotiation
+[Wed Jun 11 06:09:46.497448 2025] [core:error] [pid 1203157] [client 45.156.128.121:52827] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Wed Jun 11 06:09:47.095196 2025] [core:error] [pid 1203154] [client 45.156.128.124:41609] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Wed Jun 11 06:09:47.685060 2025] [core:error] [pid 1203329] [client 45.156.128.123:53549] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Wed Jun 11 09:40:20.913597 2025] [core:error] [pid 1206676] [client 194.126.202.234:39826] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jun 11 14:30:52.007472 2025] [core:error] [pid 1208626] [client 211.105.223.49:35620] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jun 11 14:31:17.013758 2025] [core:error] [pid 1208099] [client 211.105.223.49:38894] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jun 12 01:23:21.214281 2025] [core:error] [pid 1213324] [client 45.140.19.133:43764] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jun 12 01:23:23.345341 2025] [core:error] [pid 1214073] [client 45.140.19.133:46846] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jun 12 03:43:19.128692 2025] [core:error] [pid 1214606] [client 112.120.228.189:49068] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jun 12 03:43:20.499087 2025] [core:error] [pid 1214607] [client 112.120.228.189:51274] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jun 12 23:05:09.569659 2025] [core:error] [pid 1216822] [client 216.10.250.218:45572] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jun 12 23:05:10.651753 2025] [core:error] [pid 1222898] [client 216.10.250.218:47760] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Jun 13 21:53:59.344234 2025] [core:error] [pid 1235204] [client 8.222.225.103:36686] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jun 13 21:54:05.056127 2025] [core:error] [pid 1235697] [client 8.222.225.103:36702] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Jun 16 01:54:53.223512 2025] [ssl:error] [pid 1256296] [client 202.112.47.144:59878] AH02042: rejecting client initiated renegotiation
+[Mon Jun 16 01:55:57.703016 2025] [ssl:error] [pid 1256296] [client 202.112.47.144:36484] AH02042: rejecting client initiated renegotiation
+[Mon Jun 16 08:50:47.222346 2025] [core:error] [pid 1259013] [client 68.183.199.113:49006] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Jun 16 08:50:47.544496 2025] [core:error] [pid 1259527] [client 68.183.199.113:49022] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Jun 17 23:07:27.528523 2025] [authz_core:error] [pid 1275028] [client 139.144.52.241:48082] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Jun 18 06:30:07.169021 2025] [ssl:error] [pid 1277565] [client 44.220.188.204:50434] AH02042: rejecting client initiated renegotiation
+[Thu Jun 19 07:54:09.097950 2025] [authz_core:error] [pid 1291561] [client 64.226.65.160:44012] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Jun 23 01:21:15.427901 2025] [authz_core:error] [pid 1325049] [client 178.79.148.229:37019] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Jun 23 01:53:20.927328 2025] [ssl:error] [pid 1325973] [client 202.112.47.144:43106] AH02042: rejecting client initiated renegotiation
+[Mon Jun 23 01:53:42.658915 2025] [ssl:error] [pid 1325017] [client 202.112.47.144:36212] AH02042: rejecting client initiated renegotiation
+[Wed Jun 25 00:23:57.563863 2025] [authz_core:error] [pid 1348707] [client 46.101.111.185:48100] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Jun 25 07:17:10.862170 2025] [core:error] [pid 1352807] [client 49.175.89.60:34772] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jun 25 07:17:11.761598 2025] [core:error] [pid 1352957] [client 49.175.89.60:34774] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jun 26 05:48:11.471968 2025] [ssl:error] [pid 1359464] [client 44.220.188.151:45660] AH02042: rejecting client initiated renegotiation
+[Thu Jun 26 20:42:33.008971 2025] [core:error] [pid 1365552] [client 185.226.197.69:53631] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Thu Jun 26 20:42:33.585480 2025] [core:error] [pid 1367929] [client 185.226.197.68:35671] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Thu Jun 26 20:42:34.165381 2025] [core:error] [pid 1363950] [client 185.226.197.67:42151] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Fri Jun 27 06:53:56.127612 2025] [ssl:error] [pid 1373641] [client 139.226.191.111:17936] AH02042: rejecting client initiated renegotiation
+[Fri Jun 27 06:53:56.131199 2025] [ssl:error] [pid 1372623] [client 139.226.191.111:17934] AH02042: rejecting client initiated renegotiation
+[Fri Jun 27 09:13:33.126400 2025] [ssl:error] [pid 1372637] [client 139.226.191.111:18108] AH02042: rejecting client initiated renegotiation
+[Fri Jun 27 09:13:38.123769 2025] [ssl:error] [pid 1374613] [client 139.226.191.111:18107] AH02042: rejecting client initiated renegotiation
+[Fri Jun 27 22:38:59.913823 2025] [ssl:error] [pid 1379468] [client 139.226.191.111:18350] AH02042: rejecting client initiated renegotiation
+[Fri Jun 27 23:55:21.858195 2025] [core:error] [pid 1380350] [client 218.102.217.85:54766] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jun 27 23:55:34.500773 2025] [core:error] [pid 1380016] [client 218.102.217.85:57312] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Jun 30 01:51:35.942526 2025] [ssl:error] [pid 1407052] [client 202.112.47.144:59736] AH02042: rejecting client initiated renegotiation
+[Mon Jun 30 01:52:06.373486 2025] [ssl:error] [pid 1407052] [client 202.112.47.144:53590] AH02042: rejecting client initiated renegotiation
+[Mon Jun 30 10:59:28.562953 2025] [core:error] [pid 1409009] [client 185.226.197.64:45649] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Mon Jun 30 10:59:29.153704 2025] [core:error] [pid 1409006] [client 185.226.197.62:47249] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Mon Jun 30 10:59:29.747010 2025] [core:error] [pid 1411142] [client 185.226.197.62:32969] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Mon Jun 30 13:58:22.866899 2025] [authz_core:error] [pid 1410867] [client 35.216.217.45:54178] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Jun 30 15:07:05.829057 2025] [core:error] [pid 1412307] [client 120.48.45.123:57582] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Jun 30 15:07:21.733467 2025] [core:error] [pid 1412565] [client 8.215.81.217:36974] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Jun 30 15:07:29.446696 2025] [core:error] [pid 1410126] [client 8.215.81.217:45242] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Jul 01 19:19:07.482845 2025] [ssl:error] [pid 1423293] [client 62.204.66.12:59492] AH02042: rejecting client initiated renegotiation
+[Thu Jul 03 08:58:52.162492 2025] [authz_core:error] [pid 1443001] [client 142.93.143.8:42082] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Jul 04 04:33:55.811505 2025] [authz_core:error] [pid 1451749] [client 213.152.176.252:38633] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Jul 04 04:48:48.813563 2025] [authz_core:error] [pid 1451746] [client 213.152.176.252:23041] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Jul 04 12:52:09.055617 2025] [core:error] [pid 1455109] [client 61.136.149.93:47923] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jul 04 12:52:10.081760 2025] [core:error] [pid 1457108] [client 61.136.149.93:47014] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Jul 05 20:39:48.665821 2025] [core:error] [pid 1471134] [client 118.194.253.212:53452] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Jul 05 20:39:49.931631 2025] [core:error] [pid 1468948] [client 118.194.253.212:42808] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Jul 06 02:31:45.463271 2025] [authz_core:error] [pid 1472734] [client 185.177.72.12:30092] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sun Jul 06 11:45:29.934011 2025] [authz_core:error] [pid 1476555] [client 185.177.72.12:36890] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sun Jul 06 11:45:30.309012 2025] [authz_core:error] [pid 1476569] [client 185.177.72.12:36906] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Jul 07 01:54:07.229322 2025] [ssl:error] [pid 1483069] [client 202.112.47.144:42260] AH02042: rejecting client initiated renegotiation
+[Mon Jul 07 01:55:00.927133 2025] [ssl:error] [pid 1483397] [client 202.112.47.144:48932] AH02042: rejecting client initiated renegotiation
+[Tue Jul 08 03:28:33.578969 2025] [core:error] [pid 1494900] [client 160.25.164.221:41166] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Jul 08 03:28:41.751259 2025] [core:error] [pid 1494889] [client 160.25.164.221:41170] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jul 10 01:49:23.406589 2025] [core:error] [pid 1517327] [client 218.102.217.85:44802] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jul 10 01:49:31.143703 2025] [core:error] [pid 1517545] [client 218.102.217.85:40054] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jul 10 04:16:27.794962 2025] [core:error] [pid 1517330] [client 74.178.188.105:47010] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jul 10 08:40:41.453595 2025] [core:error] [pid 1520956] [client 117.72.82.7:44818] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jul 11 17:44:08.882434 2025] [ssl:error] [pid 1534003] [client 44.220.188.172:38216] AH02042: rejecting client initiated renegotiation
+[Sat Jul 12 06:33:23.957749 2025] [core:error] [pid 1544706] [client 91.105.196.171:50914] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Jul 12 06:33:26.303167 2025] [core:error] [pid 1544701] [client 91.105.196.171:50924] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Jul 14 01:56:05.699832 2025] [ssl:error] [pid 1567167] [client 202.112.47.144:45080] AH02042: rejecting client initiated renegotiation
+[Mon Jul 14 01:56:56.175705 2025] [ssl:error] [pid 1567171] [client 202.112.47.144:41198] AH02042: rejecting client initiated renegotiation
+[Tue Jul 15 04:16:15.788668 2025] [core:error] [pid 1581434] [client 77.91.66.240:40204] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Jul 15 04:16:16.846975 2025] [core:error] [pid 1581436] [client 77.91.66.240:59586] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Jul 16 23:50:56.611601 2025] [core:error] [pid 1606192] [client 197.220.93.106:36010] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jul 16 23:50:57.929417 2025] [core:error] [pid 1605440] [client 197.220.93.106:36016] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jul 17 03:33:59.785657 2025] [ssl:error] [pid 1607279] [client 44.220.185.188:47282] AH02042: rejecting client initiated renegotiation
+[Thu Jul 17 10:24:16.797546 2025] [authz_core:error] [pid 1611780] [client 157.245.204.205:53260] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Jul 17 17:18:54.931780 2025] [authz_core:error] [pid 1614101] [client 35.216.170.128:46226] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Jul 18 01:30:04.848804 2025] [authz_core:error] [pid 1618416] [client 213.232.87.234:42943] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Jul 18 06:47:03.826238 2025] [core:error] [pid 1620852] [client 115.190.75.127:35116] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jul 18 06:47:04.436830 2025] [core:error] [pid 1620854] [client 115.190.75.127:35122] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Jul 18 13:28:50.745046 2025] [core:error] [pid 1625229] [client 111.249.71.209:56274] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jul 18 13:28:57.847064 2025] [core:error] [pid 1623117] [client 111.249.71.209:33160] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Jul 20 14:25:51.456058 2025] [core:error] [pid 1647844] [client 167.99.121.234:34268] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Jul 20 14:25:54.666487 2025] [core:error] [pid 1650508] [client 167.99.121.234:34270] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Jul 20 14:47:57.567125 2025] [core:error] [pid 1647844] [client 203.34.56.193:60284] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Jul 20 14:47:58.279809 2025] [core:error] [pid 1647841] [client 203.34.56.193:60918] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Jul 20 16:43:04.946400 2025] [core:error] [pid 1654025] [client 162.251.95.123:38986] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Jul 20 16:43:16.383795 2025] [core:error] [pid 1654051] [client 162.251.95.123:41216] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Jul 21 01:56:29.723125 2025] [ssl:error] [pid 1660806] [client 202.112.47.144:50320] AH02042: rejecting client initiated renegotiation
+[Mon Jul 21 01:56:37.668699 2025] [ssl:error] [pid 1660348] [client 202.112.47.144:57254] AH02042: rejecting client initiated renegotiation
+[Mon Jul 21 04:41:22.650639 2025] [core:error] [pid 1662164] [client 185.177.72.205:30394] AH10244: invalid URI path (/../../../../../../.aws/credentials)
+[Mon Jul 21 22:19:45.120171 2025] [core:error] [pid 1672122] [client 137.131.43.224:53370] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Jul 21 22:19:45.886009 2025] [core:error] [pid 1672120] [client 137.131.43.224:39874] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Jul 22 00:53:45.084420 2025] [core:error] [pid 1674511] [client 38.211.193.130:54674] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Jul 22 00:53:46.106226 2025] [core:error] [pid 1674711] [client 38.211.193.130:54676] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Jul 22 22:51:05.516166 2025] [authz_core:error] [pid 1680719] [client 185.177.72.104:15268] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Tue Jul 22 22:52:41.390311 2025] [authz_core:error] [pid 1680719] [client 185.177.72.104:55310] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htpasswd
+[Wed Jul 23 17:54:02.658576 2025] [authz_core:error] [pid 1698301] [client 185.177.72.10:10036] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Wed Jul 23 17:54:16.090258 2025] [authz_core:error] [pid 1698295] [client 185.177.72.10:58814] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htpasswd
+[Wed Jul 23 23:34:37.683024 2025] [core:error] [pid 1698295] [client 154.12.224.130:60436] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jul 23 23:34:38.239603 2025] [core:error] [pid 1700579] [client 154.12.224.130:60446] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jul 24 03:25:05.971494 2025] [core:error] [pid 1702734] [client 1.94.253.75:49168] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jul 24 03:25:14.156182 2025] [core:error] [pid 1703086] [client 1.94.253.75:49178] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Jul 25 01:30:50.766644 2025] [core:error] [pid 1714802] [client 197.220.93.117:50836] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Jul 25 01:30:52.412803 2025] [core:error] [pid 1714803] [client 197.220.93.117:50838] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Jul 25 12:52:54.541964 2025] [authz_core:error] [pid 1719236] [client 185.177.72.210:48408] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Sun Jul 27 23:17:56.042193 2025] [ssl:error] [pid 1762783] [client 44.220.188.231:48454] AH02042: rejecting client initiated renegotiation
+[Mon Jul 28 00:13:36.807797 2025] [ssl:error] [pid 1765460] [client 223.166.31.124:8788] AH02042: rejecting client initiated renegotiation
+[Mon Jul 28 00:13:44.742102 2025] [ssl:error] [pid 1765457] [client 223.166.31.124:8789] AH02042: rejecting client initiated renegotiation
+[Mon Jul 28 01:54:57.154692 2025] [ssl:error] [pid 1765634] [client 202.112.47.144:35668] AH02042: rejecting client initiated renegotiation
+[Mon Jul 28 01:55:11.407618 2025] [ssl:error] [pid 1765638] [client 202.112.47.144:59770] AH02042: rejecting client initiated renegotiation
+[Tue Jul 29 00:20:12.300549 2025] [ssl:error] [pid 1783322] [client 223.166.31.124:9416] AH02042: rejecting client initiated renegotiation
+[Tue Jul 29 04:06:29.257446 2025] [authz_core:error] [pid 1783495] [client 167.172.232.142:46416] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Jul 30 00:58:14.323456 2025] [core:error] [pid 1799215] [client 38.43.93.102:34164] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jul 30 00:58:15.258698 2025] [core:error] [pid 1798540] [client 38.43.93.102:34170] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Jul 30 01:49:39.200954 2025] [core:error] [pid 1798550] [client 139.129.18.231:48086] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jul 30 01:49:42.192814 2025] [core:error] [pid 1798542] [client 139.129.18.231:56352] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Wed Jul 30 04:00:10.403871 2025] [authz_core:error] [pid 1798542] [client 213.232.87.228:32659] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Wed Jul 30 16:01:36.316778 2025] [core:error] [pid 1810033] [client 47.79.148.91:43358] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Jul 30 19:03:58.596181 2025] [authz_core:error] [pid 1803335] [client 185.177.72.107:18880] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Thu Jul 31 11:00:24.411943 2025] [core:error] [pid 1824771] [client 146.185.182.65:37718] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jul 31 11:00:26.190127 2025] [core:error] [pid 1825409] [client 146.185.182.65:43812] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Thu Jul 31 11:19:38.059085 2025] [authz_core:error] [pid 1828974] [client 164.92.244.132:50722] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Jul 31 17:20:15.280143 2025] [authz_core:error] [pid 1830044] [client 185.177.72.115:7244] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Thu Jul 31 22:36:57.579194 2025] [core:error] [pid 1830041] [client 47.236.76.100:39578] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Jul 31 22:36:59.961118 2025] [core:error] [pid 1836284] [client 47.236.76.100:39586] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 01 00:42:20.305164 2025] [core:error] [pid 1840474] [client 129.146.52.207:57534] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 01 00:42:21.680604 2025] [core:error] [pid 1840470] [client 129.146.52.207:46654] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 01 05:21:40.511981 2025] [ssl:error] [pid 1841034] [client 62.204.66.12:44332] AH02042: rejecting client initiated renegotiation
+[Sat Aug 02 08:13:48.584420 2025] [core:error] [pid 1864054] [client 47.237.107.130:58460] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 02 08:13:49.264531 2025] [core:error] [pid 1862011] [client 47.237.107.130:58474] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 02 10:10:33.045606 2025] [core:error] [pid 1857815] [client 37.187.134.194:60524] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 02 10:10:34.163924 2025] [core:error] [pid 1864645] [client 37.187.134.194:60534] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 02 19:24:31.668260 2025] [core:error] [pid 1870808] [client 124.71.231.117:39626] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 02 19:24:32.173168 2025] [core:error] [pid 1872598] [client 124.71.231.117:44284] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 02 20:52:07.765744 2025] [core:error] [pid 1872601] [client 117.72.82.7:44022] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Aug 03 08:18:00.097057 2025] [authz_core:error] [pid 1881916] [client 35.216.132.88:38482] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Aug 04 01:55:06.958591 2025] [ssl:error] [pid 1894766] [client 202.112.47.144:39316] AH02042: rejecting client initiated renegotiation
+[Mon Aug 04 01:55:15.777720 2025] [ssl:error] [pid 1895649] [client 202.112.47.144:38894] AH02042: rejecting client initiated renegotiation
+[Mon Aug 04 16:10:52.476864 2025] [core:error] [pid 1906386] [client 47.250.113.137:49876] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 04 16:10:57.413122 2025] [core:error] [pid 1906380] [client 47.250.113.137:50780] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Aug 04 19:46:06.930201 2025] [authz_core:error] [pid 1910536] [client 139.144.52.241:57690] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Aug 04 20:09:43.195784 2025] [authz_core:error] [pid 1911053] [client 138.197.191.87:58268] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Aug 04 20:09:47.972350 2025] [authz_core:error] [pid 1911066] [client 209.38.208.202:39548] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Aug 07 00:29:41.755288 2025] [ssl:error] [pid 1952070] [client 44.220.185.254:42268] AH02042: rejecting client initiated renegotiation
+[Thu Aug 07 06:25:15.433558 2025] [core:error] [pid 1952067] [client 216.126.238.175:56386] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 07 06:25:15.666043 2025] [core:error] [pid 1957592] [client 216.126.238.175:56394] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Aug 08 04:04:01.801965 2025] [authz_core:error] [pid 1976232] [client 185.177.72.201:39872] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htaccess
+[Fri Aug 08 04:04:14.727506 2025] [authz_core:error] [pid 1976232] [client 185.177.72.201:45554] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htpasswd
+[Fri Aug 08 04:51:22.182615 2025] [core:error] [pid 1979403] [client 179.43.174.100:44690] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 09 11:30:10.166903 2025] [core:error] [pid 1992209] [client 38.211.193.130:59646] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 09 11:30:10.714595 2025] [core:error] [pid 2000834] [client 38.211.193.130:59660] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sat Aug 09 14:07:58.226673 2025] [core:error] [pid 2002873] [client 188.165.233.167:55694] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 11 01:54:46.259302 2025] [ssl:error] [pid 2033908] [client 202.112.47.144:52524] AH02042: rejecting client initiated renegotiation
+[Mon Aug 11 01:55:27.688309 2025] [ssl:error] [pid 2033905] [client 202.112.47.144:57060] AH02042: rejecting client initiated renegotiation
+[Mon Aug 11 15:57:12.071828 2025] [authz_core:error] [pid 2039601] [client 139.144.52.241:43934] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Tue Aug 12 12:26:57.275178 2025] [core:error] [pid 2053137] [client 185.177.72.52:9768] AH10244: invalid URI path (/../../../../../../.aws/credentials)
+[Tue Aug 12 12:26:57.542065 2025] [core:error] [pid 2060164] [client 185.177.72.52:9780] AH10244: invalid URI path (/../../../../../../.aws/credentials)
+[Tue Aug 12 12:26:58.103658 2025] [core:error] [pid 2060159] [client 185.177.72.52:9786] AH10244: invalid URI path (/../../../../../../config/config.php)
+[Tue Aug 12 12:26:58.284331 2025] [core:error] [pid 2060157] [client 185.177.72.52:9796] AH10244: invalid URI path (/../../../../../../config/config.php)
+[Tue Aug 12 12:26:58.987350 2025] [core:error] [pid 2060160] [client 185.177.72.52:9798] AH10244: invalid URI path (/../../../../../../home/ubuntu/.env)
+[Tue Aug 12 12:26:59.719375 2025] [core:error] [pid 2053140] [client 185.177.72.52:9818] AH10244: invalid URI path (/../../../../../../var/log/apache2/access.log)
+[Tue Aug 12 14:42:53.219668 2025] [core:error] [pid 2053140] [client 185.194.204.207:47498] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 13 20:51:08.708488 2025] [core:error] [pid 2080229] [client 207.180.206.112:59012] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 13 23:43:02.211802 2025] [core:error] [pid 2086187] [client 197.220.93.115:42674] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 14 12:31:52.009932 2025] [authz_core:error] [pid 2096285] [client 209.97.180.8:54070] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Aug 14 22:10:40.300711 2025] [core:error] [pid 2103069] [client 185.177.72.50:3144] AH10244: invalid URI path (/../../../../../../.aws/credentials)
+[Thu Aug 14 22:10:40.852797 2025] [core:error] [pid 2100587] [client 185.177.72.50:3158] AH10244: invalid URI path (/../../../../../../config/config.php)
+[Thu Aug 14 22:10:41.264320 2025] [core:error] [pid 2103805] [client 185.177.72.50:3162] AH10244: invalid URI path (/../../../../../../home/ubuntu/.env)
+[Thu Aug 14 22:10:41.723701 2025] [core:error] [pid 2101021] [client 185.177.72.50:3176] AH10244: invalid URI path (/../../../../../../var/log/apache2/access.log)
+[Thu Aug 14 22:14:15.812790 2025] [authz_core:error] [pid 2093824] [client 185.177.72.50:29740] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/.htpasswd
+[Thu Aug 14 22:41:32.295879 2025] [authz_core:error] [pid 2103202] [client 185.177.72.50:16492] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Aug 15 08:17:08.932480 2025] [core:error] [pid 2107422] [client 77.110.110.41:48498] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 15 17:11:17.108120 2025] [ssl:error] [pid 2115224] [client 44.220.185.195:40302] AH02042: rejecting client initiated renegotiation
+[Sun Aug 17 01:51:32.644852 2025] [authz_core:error] [pid 2140848] [client 178.208.168.13:63506] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sun Aug 17 01:51:51.272165 2025] [authz_core:error] [pid 2140845] [client 178.208.168.13:53610] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Sun Aug 17 22:15:18.441603 2025] [authz_core:error] [pid 2154641] [client 35.216.145.137:45140] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Mon Aug 18 01:55:53.274811 2025] [ssl:error] [pid 2158777] [client 202.112.47.144:51600] AH02042: rejecting client initiated renegotiation
+[Mon Aug 18 01:56:33.387277 2025] [ssl:error] [pid 2158751] [client 202.112.47.144:43450] AH02042: rejecting client initiated renegotiation
+[Mon Aug 18 05:32:27.336377 2025] [core:error] [pid 2158347] [client 114.43.151.99:54188] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 18 11:24:41.797089 2025] [core:error] [pid 2166337] [client 137.131.43.224:43692] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Aug 19 18:00:55.779285 2025] [core:error] [pid 2186387] [client 118.178.240.160:34386] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 20 01:33:55.005610 2025] [core:error] [pid 2192827] [client 197.220.93.100:47116] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 20 12:04:07.164100 2025] [core:error] [pid 2200466] [client 121.229.175.199:56760] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 21 12:32:38.591004 2025] [core:error] [pid 2217339] [client 34.148.212.160:52072] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 21 19:32:44.031161 2025] [core:error] [pid 2220614] [client 121.229.175.199:53488] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Aug 22 01:04:13.025001 2025] [core:error] [pid 2224940] [client 45.156.129.159:58831] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Fri Aug 22 01:04:13.223335 2025] [core:error] [pid 2224937] [client 45.156.129.157:38529] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Fri Aug 22 01:04:13.466563 2025] [core:error] [pid 2224944] [client 45.156.129.156:54967] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Fri Aug 22 21:31:34.257752 2025] [core:error] [pid 2233875] [client 42.237.166.49:37488] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 23 00:13:52.009651 2025] [core:error] [pid 2240485] [client 45.131.108.170:53518] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 23 11:14:37.618487 2025] [core:error] [pid 2249375] [client 103.82.20.226:46402] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 23 11:35:22.374681 2025] [core:error] [pid 2249730] [client 47.236.76.100:37470] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 23 11:35:23.287920 2025] [core:error] [pid 2249366] [client 47.236.76.100:54240] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Sun Aug 24 12:50:08.125546 2025] [ssl:error] [pid 2265351] [client 44.220.185.59:50638] AH02042: rejecting client initiated renegotiation
+[Sun Aug 24 23:23:26.803319 2025] [core:error] [pid 2271604] [client 111.119.234.186:58036] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Aug 25 01:52:50.804615 2025] [ssl:error] [pid 2274382] [client 202.112.47.144:60368] AH02042: rejecting client initiated renegotiation
+[Mon Aug 25 01:53:14.685804 2025] [ssl:error] [pid 2274339] [client 202.112.47.144:38090] AH02042: rejecting client initiated renegotiation
+[Tue Aug 26 00:35:25.272393 2025] [core:error] [pid 2292270] [client 119.8.169.21:48712] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Aug 27 23:48:13.179148 2025] [core:error] [pid 2326203] [client 125.39.175.241:41490] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 28 10:05:56.973776 2025] [core:error] [pid 2334604] [client 114.43.131.41:54756] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Aug 28 13:41:02.080781 2025] [authz_core:error] [pid 2337483] [client 138.68.86.32:35946] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Thu Aug 28 19:44:24.883086 2025] [core:error] [pid 2342338] [client 137.131.43.224:38198] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Aug 30 13:23:48.522102 2025] [core:error] [pid 2370915] [client 115.248.8.65:42074] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 01 01:35:02.823035 2025] [core:error] [pid 2398101] [client 103.251.93.98:39936] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 01 01:52:21.604483 2025] [ssl:error] [pid 2397562] [client 202.112.47.144:57330] AH02042: rejecting client initiated renegotiation
+[Mon Sep 01 01:53:14.410739 2025] [ssl:error] [pid 2398570] [client 202.112.47.144:56200] AH02042: rejecting client initiated renegotiation
+[Mon Sep 01 04:02:51.252005 2025] [core:error] [pid 2401215] [client 197.220.93.115:60218] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 01 05:14:02.923274 2025] [core:error] [pid 2401215] [client 5.104.82.220:50790] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 01 22:13:34.029735 2025] [core:error] [pid 2413518] [client 123.253.22.8:56796] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 02 09:37:12.018682 2025] [ssl:error] [pid 2423005] [client 62.204.66.12:45540] AH02042: rejecting client initiated renegotiation
+[Tue Sep 02 18:54:33.090608 2025] [core:error] [pid 2428734] [client 101.36.123.102:42230] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 03 05:08:50.750828 2025] [core:error] [pid 2435871] [client 137.131.43.224:52570] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 03 10:35:19.743399 2025] [core:error] [pid 2439357] [client 8.209.247.11:52284] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 04 06:33:00.572350 2025] [core:error] [pid 2454759] [client 38.211.193.130:50240] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 04 06:33:01.192036 2025] [core:error] [pid 2454744] [client 38.211.193.130:50254] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Fri Sep 05 01:41:55.972209 2025] [authz_core:error] [pid 2468742] [client 35.216.163.139:46218] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Sep 05 09:20:00.760083 2025] [ssl:error] [pid 2473627] [client 98.80.4.86:46590] AH02042: rejecting client initiated renegotiation
+[Fri Sep 05 09:52:11.194075 2025] [ssl:error] [pid 2474192] [client 18.97.5.79:44856] AH02042: rejecting client initiated renegotiation
+[Sat Sep 06 07:48:43.130317 2025] [core:error] [pid 2487829] [client 198.98.53.110:36314] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 07 19:54:21.845987 2025] [core:error] [pid 2508439] [client 212.113.102.147:44384] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Sep 07 19:54:22.491717 2025] [core:error] [pid 2506926] [client 212.113.102.147:44388] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 08 01:51:20.491778 2025] [ssl:error] [pid 2515065] [client 202.112.47.144:44250] AH02042: rejecting client initiated renegotiation
+[Mon Sep 08 01:51:47.762820 2025] [ssl:error] [pid 2515070] [client 202.112.47.144:50064] AH02042: rejecting client initiated renegotiation
+[Mon Sep 08 11:12:52.081903 2025] [core:error] [pid 2517893] [client 197.220.93.115:38250] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 08 17:45:11.551536 2025] [core:error] [pid 2527696] [client 176.97.113.42:45820] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 08 21:13:54.629839 2025] [core:error] [pid 2529995] [client 103.96.72.171:44450] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Tue Sep 09 17:09:58.392005 2025] [authz_core:error] [pid 2544273] [client 139.59.132.8:40586] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Tue Sep 09 19:10:00.165816 2025] [authz_core:error] [pid 2543904] [client 188.166.108.93:35878] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Tue Sep 09 19:10:00.272013 2025] [authz_core:error] [pid 2544269] [client 178.128.207.138:35994] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Tue Sep 09 22:47:34.624458 2025] [core:error] [pid 2547259] [client 185.107.44.224:55988] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Sep 10 00:47:32.234678 2025] [core:error] [pid 2548873] [client 197.220.93.117:58854] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 11 13:19:15.113603 2025] [core:error] [pid 2573911] [client 106.13.112.250:52949] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Thu Sep 11 14:40:20.010852 2025] [core:error] [pid 2578069] [client 161.132.4.20:52916] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 12 00:01:15.390550 2025] [core:error] [pid 2585993] [client 124.71.238.93:42934] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 12 02:32:17.687917 2025] [core:error] [pid 2585993] [client 115.190.75.127:40560] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 12 14:59:41.220428 2025] [authz_core:error] [pid 2595353] [client 64.226.65.160:51216] AH01630: client denied by server configuration: /var/www/html/innter_nat_admin/public/server-status
+[Fri Sep 12 23:30:21.618022 2025] [core:error] [pid 2601426] [client 92.55.190.215:56244] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Fri Sep 12 23:49:42.908433 2025] [core:error] [pid 2602268] [client 62.169.17.65:46460] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 13 00:28:17.415054 2025] [ssl:error] [pid 2603970] [client 223.166.31.75:2480] AH02042: rejecting client initiated renegotiation
+[Sat Sep 13 00:28:20.086107 2025] [ssl:error] [pid 2603562] [client 223.166.31.75:2479] AH02042: rejecting client initiated renegotiation
+[Sat Sep 13 13:25:41.610556 2025] [core:error] [pid 2609281] [client 68.183.87.74:38824] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 13 13:51:50.130259 2025] [core:error] [pid 2606542] [client 38.146.30.200:40864] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 13 22:48:00.817626 2025] [core:error] [pid 2618536] [client 124.220.11.234:53596] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sat Sep 13 22:48:02.388659 2025] [core:error] [pid 2618541] [client 124.220.11.234:54312] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Mon Sep 15 01:50:16.122976 2025] [ssl:error] [pid 2645784] [client 202.112.47.144:51582] AH02042: rejecting client initiated renegotiation
+[Mon Sep 15 01:50:51.817085 2025] [ssl:error] [pid 2645132] [client 202.112.47.144:51590] AH02042: rejecting client initiated renegotiation
+[Mon Sep 15 17:37:05.075522 2025] [core:error] [pid 2657016] [client 47.236.76.100:56542] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Sep 15 17:37:05.775616 2025] [core:error] [pid 2656560] [client 47.236.76.100:56556] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
