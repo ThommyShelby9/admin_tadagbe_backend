@@ -146,4 +146,5 @@ class AdmissionController extends Controller
     {
         return Excel::download(new AdmissionsExport, 'admissions.xlsx');
     }
+
 }

@@ -81,6 +81,65 @@ class AdmissionDataTable extends DataTable
     }
 
     /**
+ * Get query source of dataTable.
+ *
+ * @param \App\Models\Admission $model
+ * @return \Illuminate\Database\Eloquent\Builder
+ */
+public function query(Admission $model)
+{
+    $query = $model->newQuery();
+
+    // Filtres existants
+    $school_id = $this->request()->get('school_id');
+    $status = $this->request()->get('status');
+
+    // Nouveaux filtres
+    $first_name = $this->request()->get('first_name');
+    $last_name = $this->request()->get('last_name');
+    $email = $this->request()->get('email');
+    $phone = $this->request()->get('phone');
+    $paiement_mode = $this->request()->get('paiement_mode');
+    $nationality = $this->request()->get('nationality');
+    $date_from = $this->request()->get('date_from');
+    $date_to = $this->request()->get('date_to');
+
+    // Application des filtres
+    if ($school_id) {
+        $query->where('school_id', $school_id);
+    }
+    if ($status !== null && $status !== '') {
+        $query->where('status', $status);
+    }
+    if ($first_name) {
+        $query->where('first_name', 'like', "%{$first_name}%");
+    }
+    if ($last_name) {
+        $query->where('last_name', 'like', "%{$last_name}%");
+    }
+    if ($email) {
+        $query->where('email', 'like', "%{$email}%");
+    }
+    if ($phone) {
+        $query->where('phone', 'like', "%{$phone}%");
+    }
+    if ($paiement_mode) {
+        $query->where('paiement_mode', $paiement_mode);
+    }
+    if ($nationality) {
+        $query->where('nationality', 'like', "%{$nationality}%");
+    }
+    if ($date_from) {
+        $query->whereDate('created_at', '>=', $date_from);
+    }
+    if ($date_to) {
+        $query->whereDate('created_at', '<=', $date_to);
+    }
+
+    return $query;
+}
+
+    /**
      * Optional method if you want to use html builder.
      *
      * @return \Yajra\DataTables\Html\Builder
