@@ -23,16 +23,23 @@ class AdmissionController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index(Request $request,AdmissionDataTable $dataTable){
-        $school_id=$request->query("school_id");
-        session(["school_id"=>$school_id]);
-        //dd("school_id",$school_id);
-        if($school_id)
-        $dataTable->with("school_id",$school_id);
-      //  $dataTable= $dataTable->with("status","0");
+public function index(Request $request, AdmissionDataTable $dataTable)
+{
+    $school_id = $request->query("school_id");
+    session(["school_id" => $school_id]);
 
-        return $dataTable->render('dashboard.admissions.index');
+    if ($school_id) {
+        $dataTable->with("school_id", $school_id);
     }
+
+    // Vérifier si c'est une requête AJAX
+    if ($request->ajax()) {
+        return $dataTable->ajax();
+    }
+
+    // Sinon, afficher la vue
+    return $dataTable->render('dashboard.admissions.index');
+}
     public function datatables(Request $request,AdmissionDataTable $dataTable)
     {
         $school_id=$request->query("school_id");
